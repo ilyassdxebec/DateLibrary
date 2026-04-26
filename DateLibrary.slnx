@@ -3,5 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="ReadMe.md" />
+  </Folder>
   <Project Path="DateLibrary/DateLibrary.vcxproj" Id="6dfc2190-8384-4645-9158-e697178d7c70" />
 </Solution>

@@ -1,2 +1,20 @@
 ﻿  DateLibrary.cpp
+D:\Coding projects\DateLibrary\DateLibrary\clsString.h(59,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DateLibrary.cpp')
+  
+D:\Coding projects\DateLibrary\DateLibrary\clsString.h(92,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DateLibrary.cpp')
+  
+D:\Coding projects\DateLibrary\DateLibrary\clsString.h(178,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DateLibrary.cpp')
+  
+D:\Coding projects\DateLibrary\DateLibrary\clsString.h(210,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DateLibrary.cpp')
+  
+D:\Coding projects\DateLibrary\DateLibrary\clsString.h(258,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DateLibrary.cpp')
+  
+D:\Coding projects\DateLibrary\DateLibrary\clsString.h(389,18): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'DateLibrary.cpp')
+  
   DateLibrary.vcxproj -> D:\Coding projects\DateLibrary\x64\Debug\DateLibrary.exe
